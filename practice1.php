@@ -345,6 +345,7 @@ functionisPrime($num) {
 }
 
 
+
 function findPrimes($limit) {
     $primes = [];
     for ($i = 2; $i <= $limit; $i++) {
